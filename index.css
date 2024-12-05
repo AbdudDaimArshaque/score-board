@@ -15,7 +15,7 @@ body {
     align-items: center;
     background-image: linear-gradient(to left, #990000, #3f3f3f, #005eb8);
     border: 10px solid transparent;
-    border-image: url(imgs/blended_gold_silver.png) 1 round;
+    border-image: url(blended_gold_silver.png) 1 round;
     text-align: center;
     margin: auto;
     margin-top: 100px;
